@@ -1,9 +1,9 @@
 # rotary-encoder-gray-code
 
-##Challenge 2. Rotary Encoder: Gray Code.
+## Challenge 2. Rotary Encoder: Gray Code.
 You have been provided with a mechanical rotary encoder that places its 4-bit Gray Code on four pins (8-4-2-1) each routed through a fifth common pin (C). In this challenge you are to develop AVR Assembly code that will read and display the four bit output of the encoder on your Double Dabble prototype. Note: You MUST use the Convert>Display blocks that we developed in class together last Thursday. This Challenge requires that you add an Input block to complete the trio.
 
-##Task.
+## Task.
 Wire the output of your encoder into the Arduino digital pins 1-4 (avoiding pin 0 as it complicates matters) such that encoder weights 8-4-2-1 map to the Ardiuino's digital pins 4-3-2-1 (PORTD). Since there is only a single common pin on the encoder, pull down or pull up resistors (your choice) ARE required so the output doesn't float.
 Create an ATMEL Studio 7 Project entitled GrayCodeChallenge and the GrayCodeChallenge.asm source file that reads the encoder's output, sends it through your DoubleDabble algorithm, and continously displays the output on your seven-segment display.
 
