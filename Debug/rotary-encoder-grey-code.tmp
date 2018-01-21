@@ -1,0 +1,36 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.7</VERSION>
+ <DEVICE>"ATmega328PB"</DEVICE>
+ <WORKING_DIR>C:\Users\Tim\Documents\Atmel Studio\7.0\rotary-encoder-grey-code\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.150\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\Tim\Documents\Atmel Studio\7.0\rotary-encoder-grey-code\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.150\avrasm\inc\m328PBdef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\Tim\Documents\Atmel Studio\7.0\rotary-encoder-grey-code\Debug\rotary-encoder-grey-code.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>rotary-encoder-grey-code.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>rotary-encoder-grey-code.map</FILE>
+  <FILE>rotary-encoder-grey-code.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <reset><FILE>C:\Users\Tim\Documents\Atmel Studio\7.0\rotary-encoder-grey-code\main.asm</FILE><LINE>23</LINE></reset>
+  <greyTable><FILE>C:\Users\Tim\Documents\Atmel Studio\7.0\rotary-encoder-grey-code\main.asm</FILE><LINE>16</LINE></greyTable>
+  <greyTableEnd><FILE>C:\Users\Tim\Documents\Atmel Studio\7.0\rotary-encoder-grey-code\main.asm</FILE><LINE>21</LINE></greyTableEnd>
+  <convertGrey><FILE>C:\Users\Tim\Documents\Atmel Studio\7.0\rotary-encoder-grey-code\main.asm</FILE><LINE>33</LINE></convertGrey>
+  <doubleDabble><FILE>C:\Users\Tim\Documents\Atmel Studio\7.0\rotary-encoder-grey-code\main.asm</FILE><LINE>44</LINE></doubleDabble>
+  <nextBit><FILE>C:\Users\Tim\Documents\Atmel Studio\7.0\rotary-encoder-grey-code\main.asm</FILE><LINE>50</LINE></nextBit>
+  <display><FILE>C:\Users\Tim\Documents\Atmel Studio\7.0\rotary-encoder-grey-code\main.asm</FILE><LINE>72</LINE></display>
+  <testTens><FILE>C:\Users\Tim\Documents\Atmel Studio\7.0\rotary-encoder-grey-code\main.asm</FILE><LINE>65</LINE></testTens>
+  <delayms><FILE>C:\Users\Tim\Documents\Atmel Studio\7.0\rotary-encoder-grey-code\main.asm</FILE><LINE>98</LINE></delayms>
+  <L1><FILE>C:\Users\Tim\Documents\Atmel Studio\7.0\rotary-encoder-grey-code\main.asm</FILE><LINE>101</LINE></L1>
+ </LABELS>
+</ASSEMBLER_INFO>
